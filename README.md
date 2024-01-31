@@ -27,9 +27,10 @@ Co będe robić w prz:
 echo "block 1"
 echo "block 11"
 echo "block 111"
+```
 
 
-![kщеул](kitty1.jpg)
+![kotek](kitty1.jpg)
 
 
 
